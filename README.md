@@ -14,6 +14,7 @@
 Welcome to Food Differently, where we're revolutionizing the way you experience food delivery. More than just a platform for delicious meals, we're committed to nourishing communities and shaping the future of education and technology. With every order placed through our app, we donate 1% of sales to support computer science programming in educational settings. By empowering future generations with essential digital skills, we're not just delivering food; we're investing in the future. Join us in making a difference and experiencing food delivery differently. Together, let's savor great food and contribute to a brighter tomorrow, one byte at a time.
 
 ## A description of the app
+Food Differently is a food delivery application similiar to an uber eats or a doordash but sets itself apart throught its donation feature and goal to give back to local communities.
 
 
 
@@ -58,7 +59,18 @@ npx nodemon src/server.js
 ## Known issues
 
 * April 22nd 2024: Unsure how integrate connection between frontend and backend components within the software architecture.
+* May 8th 2024: Issues deploying backend and issue with app fluidity and user experience.
   
 ## Roadmap features
+- The ability to place orders with the Yelp API
+- Incorporate real-time tracking capabilities
+- Inclusion of mom & pop stores
+- Custom donation amounts
+- Implementation of a loading screen to provide a more smoother and responsive user experience
 
 ## Credits 
+- Back end lead: Chukwuma
+- Front end lead: Sherlin
+- Javyen
+- Kyvon
+  
